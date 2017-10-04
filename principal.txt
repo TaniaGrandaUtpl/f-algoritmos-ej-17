@@ -1,2 +1,4 @@
 Concepto de ciclo repetitivo
 Nos permiten repetir un numero determinado de veces mientras se cumpla una condicion.
+git status
+
